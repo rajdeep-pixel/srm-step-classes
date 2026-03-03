@@ -1,4 +1,4 @@
-public class UC5 {
+public class OOPsBannerApp {
     public static void main(String[] args) {
 
         String[] lines = {
