@@ -8,7 +8,8 @@ public class UC4 {
         lines[4] = String.join(" ", " **   ** ", " **   ** ", "**      ", "      **");
         lines[5] = String.join(" ", "  ** **  ", "  ** **  ", "**      ", " **   **");
         lines[6] = String.join(" ", "   ***   ", "   ***   ", "**      ", "  ***** ");
-        for (String line : lines) {
+        for (String line : lines) 
+        {
             System.out.println(line);
         }
     }
